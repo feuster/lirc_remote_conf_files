@@ -1,2 +1,2 @@
-# lirc_remote_conf_files
-Premade remote configure files for TechniSat RC5 IR codes for use with LIRC
+# TechniSat RC5 LIRC Remote Config Files
+Premade remote config files for TechniSat RC5 IR based codes for use with LIRC
